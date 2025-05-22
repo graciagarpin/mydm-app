@@ -1,6 +1,6 @@
-# Mi Diario de Mamá (MyDM)
+# Mi Diario de Mamá (MyMD) – My Mum’s Diary App
 
-**MyDM** es la app que me habría gustado tener disponible cuando nació mi bebé.  
+**MyMD** es la app que me habría gustado tener disponible cuando nació mi bebé.  
 Diseñada para madres recientes, busca ser un espacio cálido, fácil de usar y útil para registrar los momentos únicos y datos útiles de la maternidad en sus primeras etapas.
 
 ---
